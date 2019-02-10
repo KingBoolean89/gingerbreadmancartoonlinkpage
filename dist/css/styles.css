@@ -75,14 +75,13 @@ h6{
   grid-template-columns: repeat(3, 1fr);  
 }
 
-
-
-
+li{
+  padding: 0;
+}
  img {
   width: 40%;
   height: auto;
   vertical-align: middle;
-  padding:0;
 
 }
 .imagest{
