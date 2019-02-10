@@ -9,6 +9,9 @@ body{
   background-color: #000;
   font: white;
 }
+.myedit{
+  justify-content: flex-end;
+}
 #container{
   display: grid;
   height:100%;
