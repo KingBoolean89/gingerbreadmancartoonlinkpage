@@ -79,9 +79,10 @@ h6{
 
 
  img {
-  width: 38%;
+  width: 40%;
   height: auto;
   vertical-align: middle;
+  padding:0;
 
 }
 .imagest{
