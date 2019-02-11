@@ -2,7 +2,16 @@ body{
   padding:0;
   margin:0;
   min-height: 100%;
- 
+  background-image: url(../images/backgroundimage.jpg) ;
+  height: 100%; 
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover; 
+  z-index:-1 ;
 }
 
 .special li{
@@ -25,7 +34,7 @@ body{
   background-color: white;
   
 }
-.background{
+/* .background{
   background-image: url(../images/backgroundimage.jpg) ;
   height: 100%; 
   background-position: center center;
@@ -36,7 +45,7 @@ body{
   -moz-background-size:cover;
   -o-background-size:cover; 
   
-}
+} */
 h4{
   text-align: center;
   font: 15px/1.5  Arial, Helvetica, sans-serif, white solid;
