@@ -29,12 +29,12 @@ body{
 }
 .background{
   background-image: url(../images/backgroundimage.jpg) ;
-  z-index: -1;
+  
 
   
 
   /* Full height */
-  height: 100vh; 
+  height: 100%; 
 
   /* Center and scale the image nicely */
   background-position: center;
