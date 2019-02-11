@@ -24,7 +24,7 @@ body{
 #container{
   display: grid;
   height:100vh;
-  width: 100%; 
+  width: 100%;
   max-width: 320px;
   margin:auto;
   margin-bottom: 15px;
@@ -49,10 +49,6 @@ body{
 h4{
   text-align: center;
   font: 15px/1.5  Arial, Helvetica, sans-serif, white solid;
-}
-.gbm{
-  max-height:1000px; 
- 
 }  
 h6{
   text-align: center;
